@@ -1,2 +1,2 @@
-# week1IntroPopHealth
-Introduction to Population Health
+# Introduction to Population Health
+find lectures @ 
