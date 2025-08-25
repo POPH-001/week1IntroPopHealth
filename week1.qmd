@@ -138,8 +138,7 @@ Variations in health outcomes by:
 
 ### [Understanding inequities]{style="color: pink;"}
 
--   So why do we observe lower life expectancy in rural areas? ![](week1_files/imgs/mentimeter_qr_code.png){fig-align="center" width="30%"} 
--   https://www.menti.com/alvwf32gwyfj
+-   So why do we observe lower life expectancy in rural areas? 
 
 ------------------------------------------------------------------------
 
