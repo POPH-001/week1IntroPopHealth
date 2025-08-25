@@ -1,7 +1,6 @@
 ---
 title: "Introduction to Population Health"
-author: "Eric Delmelle"
-date: "August 26 2025"
+author: "Eric Delmelle - August 26, 28 2025"
 format:
   revealjs: default
   pdf: default
