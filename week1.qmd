@@ -1,10 +1,13 @@
 ---
 title: "Introduction to Population Health"
 author: "Eric Delmelle"
+date: "August 26 2025"
 format:
   revealjs: default
   pdf: default
 ---
+
+# [**SYLLABUS!!!**]{style="color: teal;"}
 
 # [**Objectives**]{style="color: teal;"}
 
